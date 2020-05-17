@@ -1,2 +1,5 @@
-/noded_modules/
+/node_modules/
 /config/config.env
+
+node_modules/
+config/config.env
